@@ -12,15 +12,15 @@ How to run the Online Online Fashion Store using PHP and MySQL
 
 6. Import shopping file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/shopping (frontend)
+7.Run the script http://localhost/shopping-portal/shopping (frontend)
 
-8. Link for admin Panel : http://localhost/shopping/admin
+8. Link for admin Panel : http://localhost/shopping-portal/shopping/admin
 
 *************Login Details For User***************
 
-Username : johndeo@gmail.com
-Password : Test@123
+Username : anwarkhalid069@gmail.com
+Password : 1233456
 
 *************For Admin ******************
-User Name : admin
-Password : Test@123
+User Name : khalid
+Password : 123456
