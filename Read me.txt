@@ -18,9 +18,9 @@ How to run the Online Online Fashion Store using PHP and MySQL
 
 *************Login Details For User***************
 
-Username : anwarkhalid069@gmail.com
-Password : 1233456
+Username : mantashachoudhary118@gmail.com
+Password : 123456
 
 *************For Admin ******************
-User Name : khalid
+User Name : mantasha
 Password : 123456
