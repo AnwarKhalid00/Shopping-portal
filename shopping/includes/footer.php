@@ -71,7 +71,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <p>(+91) 9931477725<br>(+91) 7355448835</p>
+                    <p>(+91) 7355448835<br>(+91) 9931477725</p>
                 </div>
             </li>
 
@@ -83,6 +83,7 @@
                     </span>
                 </div>
                 <div class="media-body">
+                    <span><a href="#">anwarkhalid069@gmail.com</a></span>
                     <span><a href="#">ashishsingh88090@gmail.com</a></span>
                 </div>
             </li>
