@@ -238,9 +238,8 @@ CREATE TABLE `userlog` (
 --
 
 INSERT INTO `userlog` (`id`, `userEmail`, `userip`, `loginTime`, `logout`, `status`) VALUES
-(1, 'anuj.k@gmail.com', 0x3a3a3100000000000000000000000000, '2024-05-22 06:01:21', '22-05-2024 11:34:34 AM', 1),
-(2, 'johndeo@gmail.com', 0x3a3a3100000000000000000000000000, '2024-05-23 13:30:40', NULL, 1),
-(3, 'amit12@gmail.com', 0x3a3a3100000000000000000000000000, '2024-06-05 01:03:33', '05-06-2024 06:39:31 AM', 1);
+(1, 'anwarkhalid069@gmail.com', 0x3a3a3100000000000000000000000000, '2024-05-22 06:01:21', '22-05-2024 11:34:34 AM', 1),
+(2, 'mantashachoudhary118@gmail.com', 0x3a3a3100000000000000000000000000, '2024-05-23 13:30:40', NULL, 1);
 
 -- --------------------------------------------------------
 
@@ -271,12 +270,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `contactno`, `password`, `shippingAddress`, `shippingState`, `shippingCity`, `shippingPincode`, `billingAddress`, `billingState`, `billingCity`, `billingPincode`, `regDate`, `updationDate`) VALUES
-(1, 'Anuj Kumar', 'anuj.k@gmail.com', 9009857868, 'f925916e2754e5e03f75dd58a5733251', 'CS New Delhi', 'New Delhi', 'Delhi', 110001, 'New Delhi', 'New Delhi', 'Delhi', 110092, '2024-04-21 19:30:50', ''),
-(2, 'Amit ', 'amit@gmail.com', 8285703355, '5c428d8875d2948607f3e3fe134d71b4', '', '', '', 0, '', '', '', 0, '2024-04-21 19:30:50', ''),
-(3, 'hg', 'hgfhgf@gmass.com', 1121312312, '827ccb0eea8a706c4c34a16891f84e7b', '', '', '', 0, '', '', '', 0, '2024-04-21 19:30:50', ''),
-(4, 'John Doe', 'johndeo@gmail.com', 4564566554, 'f925916e2754e5e03f75dd58a5733251', 'A 12323 XYZ Apartment ', 'Delhi', 'New Delhi', 110092, 'A 12323 XYZ Apartment ', 'Delhi', 'New Delhi', 110092, '2024-05-23 13:30:34', NULL),
-(5, 'Amit kumar', 'amit12@gmail.com', 1414253625, 'f925916e2754e5e03f75dd58a5733251', 'A 123 XYZ Apartment', 'Delhi', 'new Delhi', 110023, 'A 123 XYZ Apartment', 'Delhi', 'new Delhi', 110023, '2024-06-05 01:03:24', NULL);
-
+(1, 'Khalid Anwar', 'anwarkhalid069@gmail.com', 7355448835, 'f925916e2754e5e03f75dd58a5733251', 'CS New Delhi', 'New Delhi', 'Delhi', 110001, 'New Delhi', 'New Delhi', 'Delhi', 110092, '2024-04-21 19:30:50', ''),
+(2, 'Mantasha Choudhary', 'mantashachoudhary118@gmail.com', 8474982155, '5c428d8875d2948607f3e3fe134d71b4', '', '', '', 0, '', '', '', 0, '2024-04-21 19:30:50', '');
 -- --------------------------------------------------------
 
 --
